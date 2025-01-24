@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Text field",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_03v7ars",
+        "columns": null
+      },
+      "id": "Field_0smwua5",
+      "key": "textfield_aqmxk"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0zlwso0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.29.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.22.0",
+  "schemaVersion": 17
+}

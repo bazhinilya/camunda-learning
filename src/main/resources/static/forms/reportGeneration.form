@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "label": "Сделки",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1pg5moo",
+        "columns": null
+      },
+      "id": "Field_160xjn2",
+      "key": "inputDeal",
+      "description": "Перечислите сделки в формате: 1000, 20, 300, 500",
+      "validate": {
+        "required": true
+      },
+      "disabled": false
+    }
+  ],
+  "type": "default",
+  "id": "Form_1qhsgbk",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.29.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.22.0",
+  "schemaVersion": 17
+}
